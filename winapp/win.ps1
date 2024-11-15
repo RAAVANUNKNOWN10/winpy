@@ -1,0 +1,1 @@
+python3 "D:\qtpython\app.py"
